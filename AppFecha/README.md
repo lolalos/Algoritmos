@@ -29,7 +29,7 @@ El usuario debe ingresar una fecha en uno de estos formatos. Si la fecha o el fo
 1. **Clonar el repositorio**:
 
     ```bash
-    git clone https://github.com/tu_usuario/proyecto-cfecha.git
+    git clone https://github.com/lolalos/Algoritmos/tree/main/AppFecha
     ```
 
 2. **Abrir el proyecto en Visual Studio**:
