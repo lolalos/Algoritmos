@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppFecha\AppFecha\bin\Debug\AppFecha.exe.config
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppFecha\AppFecha\bin\Debug\AppFecha.exe
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppFecha\AppFecha\bin\Debug\AppFecha.pdb
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppFecha\AppFecha\obj\Debug\AppFecha.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppFecha\AppFecha\obj\Debug\AppFecha.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppFecha\AppFecha\obj\Debug\AppFecha.exe
+C:\Users\User\Desktop\progrmacion\Programacion 2\AppFecha\AppFecha\obj\Debug\AppFecha.pdb
